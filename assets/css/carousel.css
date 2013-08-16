@@ -18,6 +18,8 @@ body {
   z-index: 15;
 }
 
+.work { padding-top: 100px;}
+.proj-info { padding-top: 150px; padding-bottom: 30px;}
 
 
 /* CUSTOMIZE THE CAROUSEL
@@ -36,9 +38,7 @@ body {
 }
 
 /* Declare heights because of positioning of img element */
-.carousel .item {
-  height: 500px;
-}
+
 .carousel-inner > .item > img {
   position: absolute;
   top: 0;
